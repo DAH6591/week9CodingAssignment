@@ -1,7 +1,7 @@
 {
   "name": "week9videos",
   "version": "1.0.0",
-  "description": "",
+  "description": "\"# week9CodingAssignment\"",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,13 @@
   "dependencies": {
     "bootstrap": "^5.1.3",
     "jquery": "^3.6.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DAH6591/week9CodingAssignment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DAH6591/week9CodingAssignment/issues"
+  },
+  "homepage": "https://github.com/DAH6591/week9CodingAssignment#readme"
 }
