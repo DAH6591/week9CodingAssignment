@@ -1,3 +1,6 @@
+/* Week 9 Coding Assignment
+CSS for the Home Page */
+
 body {
     background: url("hockey-wallpaper.jpg") no-repeat center center fixed;
     background-size: cover;   
@@ -51,8 +54,7 @@ figure {
 }
 
 button {
-    font-size: medium;
-    font-family:Arial, Helvetica, sans-serif;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     align-content: center;
     }
 

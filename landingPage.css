@@ -1,3 +1,6 @@
+/* Week 9 Coding Assignment
+CSS for the Landing Page */
+
 html,
 body {
     height: 100%;
@@ -8,10 +11,9 @@ body {
 }
 
     .gradient {
-    background: rgb(186, 183, 234);
     background: linear-gradient(
-    90deg, rgba(2,0,36,1) 0%,
-     rgba(231,219,219,1) 100%
+    90deg, rgb(37, 112, 84) 0%,
+     rgb(154, 240, 224) 100%
      );
 }
 
@@ -29,7 +31,6 @@ body {
 
 .navbar {
     font-size: large;
-    background-color:rgb(236, 236, 93);
 }
 
 .Coyne {
